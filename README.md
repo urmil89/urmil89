@@ -2,25 +2,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urmil89&label=Views&color=blue&style=plastic" alt="Urmil89" /> </p>
 
-<a href="https://twitter.com/urmil89">
+<a href="https://twitter.com/urmil89" targe="_blank">
   <img align="left" alt="Urmil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/urmil89">
+<a href="https://linkedin.com/in/urmil89" targe="_blank">
   <img align="left" alt="Urmil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/urmil89">
+<a href="https://github.com/urmil89" targe="_blank">
   <img align="left" alt="Urmil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/urmil89">
+<a href="https://t.me/urmil89" targe="_blank">
   <img align="left" alt="Urmil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/urmil_developer/">
+<a href="https://instagram.com/urmil_developer/" targe="_blank">
   <img align="left" alt="Urmil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/urmil89/">
+<a href="https://www.facebook.com/urmil89/" targe="_blank">
   <img align="left" alt="Urmil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UChcx6h6uwHPDjKUgZvGDAHA">
+<a href="https://www.youtube.com/channel/UChcx6h6uwHPDjKUgZvGDAHA" targe="_blank">
   <img align="left" alt="Urmil's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
