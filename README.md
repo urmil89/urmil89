@@ -2,27 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urmil89&label=Views&color=blue&style=plastic" alt="Urmil89" /> </p>
 
-<a href="https://twitter.com/urmil89">
-  <img align="left" alt="Urmil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/urmil89">
-  <img align="left" alt="Urmil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/urmil89">
-  <img align="left" alt="Urmil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/urmil89">
-  <img align="left" alt="Urmil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/urmil_developer/">
-  <img align="left" alt="Urmil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/urmil89/">
-  <img align="left" alt="Urmil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UChcx6h6uwHPDjKUgZvGDAHA">
-  <img align="left" alt="Urmil's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 <br/>
@@ -42,6 +21,28 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-urmil89-2648ff?style=flat-square&logo=google-chrome)](https://urmil8989.online/)
 
 <br />
+<a href="https://twitter.com/urmil89">
+  <img align="left" alt="Urmil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/urmil89" target="_blank">
+  <img align="left" alt="Urmil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/urmil89" target="_blank">
+  <img align="left" alt="Urmil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/urmil89" target="_blank">
+  <img align="left" alt="Urmil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/urmil_developer/" target="_blank">
+  <img align="left" alt="Urmil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/urmil89/" target="_blank">
+  <img align="left" alt="Urmil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UChcx6h6uwHPDjKUgZvGDAHA" target="_blank">
+  <img align="left" alt="Urmil's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+</br>
 
 ### Languages and Tools:
 
