@@ -76,6 +76,10 @@
 <a href="https://github.com/urmil89/Guess-Number-Game">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=urmil89&repo=CRUD-PHP&theme=dark" />
 </a>
+[yogesh's github stats](https://github-readme-stats.vercel.app/api?username=urmil89&count_private=true&hide=prs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/urmil89/github-readme-stats)
+>
+[Top Language use by Urmil](https://github-readme-stats.vercel.app/api/top-langs/?username=urmil89)](https://github.com/urmil89/github-readme-stats)
+
 
 <div align="center">
 
