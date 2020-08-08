@@ -1,9 +1,6 @@
 ## Hey, I'm [Urmil Rupareliya!](https://urmil8989.online) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urmil89&label=Views&color=blue&style=plastic" alt="Urmil89" /> </p>
-
-
-<br/>
 <br/>
 
 - 🔭 I’m currently working on [Urmil8989.online](https://urmil8989.online).
