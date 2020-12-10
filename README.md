@@ -2,7 +2,6 @@
 
 - Python Programmer at India
 - Node.js Web Developer
-- HolyJS Programme Committee
 - JavaScript, C++ and Android developer
 - Web-Pen Tester
 - Ethical Hacker
