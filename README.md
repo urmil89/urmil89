@@ -1,8 +1,9 @@
 ## About Me
 
-- Python Programmer at India
-- Node.js Web Developer
+
+- Node.js Full Stack Developer at India
 - JavaScript, C++ and Android developer
+- Python Programmer 
 - Web-Pen Tester
 - Ethical Hacker
 
