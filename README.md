@@ -1,8 +1,7 @@
 ## About Me
 
 
-- Node.js Full Stack Developer at India
-- JavaScript, C++ and Android developer
+- Android developer {Java}
 - Python Programmer 
 - Web-Pen Tester
 - Ethical Hacker
