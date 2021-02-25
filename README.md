@@ -1,7 +1,7 @@
 ## About Me
 
 
-- Android developer {Java}
+- Android Dev
 - Python Programmer 
 - Web-Pen Tester
 - Ethical Hacker
